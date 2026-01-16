@@ -17,7 +17,7 @@ local joinEvent = ReplicatedStorage
 
 -- ================= SETTINGS =================
 local BLOCK_SIZE = Vector3.new(20, 1, 20)
-local HEIGHT = 2000
+local HEIGHT = 20000
 local RETURN_DISTANCE = 12
 local JOIN_INTERVAL = 1
 -- ============================================
